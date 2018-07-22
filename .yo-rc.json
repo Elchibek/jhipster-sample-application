@@ -28,7 +28,8 @@
       "en"
     ],
     "clientFramework": "angularX",
-    "jhiPrefix": "jhi"
+    "jhiPrefix": "jhi",
+    "herokuAppName": "afternoon-springs-27388"
   },
   "git-provider": "GitHub",
   "git-company": "Elchibek",
